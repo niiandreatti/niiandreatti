@@ -2,7 +2,12 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niiandreatti/)
 ---
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=niiandreatti&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niiandreatti&layout=compact)
+<a href="https://github.com/niiandreatti/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niiandreatti" />
+</a>
+<a href="https://github.com/niiandreatti/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niiandreatti&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
@@ -22,9 +27,3 @@ Além disso, sou um comunicador eficaz que valoriza a colaboração e o trabalho
 - Participar de comunidades de desenvolvedores
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
