@@ -12,7 +12,7 @@ Sou um profissional apaixonado e dedicado, sempre em busca de desafios que me pe
 Minha paixão por desenvolvimento Front-end e Back-end, como web, aplicativos iOS,
 gerenciando dados, uma lógica de negócios é movida pelo desejo de criar um impacto positivo e fazer a diferença. Tenho um histórico comprovado de dedicação, conforme demonstrado em meu perfil no GitHub: https://github.com/niiandreatti. 
 
-Além disso, sou um comunicador eficaz que valoriza a colaboração e o trabalho em equipe. Gosto de enfrentar desafios complexos e encontrar soluções inovadoras. Sou um aluno ávido e sempre me esforço para me manter atualizado com as últimas tendências e avanços em desenvolvimento front-end e desenvolvimento back-end.
+**Além disso, sou um comunicador eficaz que valoriza a colaboração e o trabalho em equipe. Gosto de enfrentar desafios complexos e encontrar soluções inovadoras. Sou um aluno ávido e sempre me esforço para me manter atualizado com as últimas tendências e avanços em desenvolvimento front-end e desenvolvimento back-end.**
 ---
 
 ### 🎯 Objetivos
